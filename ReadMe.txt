@@ -18,6 +18,7 @@ A PHP script to crawl a website, search for a keyword, and save results.
 
     php index.php
 
+3- The results will be saved in a folder with the same name as the crawled website.
 
 #Note
 
